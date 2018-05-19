@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 [About](about.md)
-[Blog Posts](2018-05-19-first-post.md)
+[Blog Posts](_posts/2018-05-19-first-post.md)
 
 You can use the [editor on GitHub](https://github.com/alexanderlchen/alexanderlchen.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
